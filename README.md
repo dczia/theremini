@@ -10,9 +10,9 @@ This SAO unfortunately does not make any noise or produce lasers, but it does ha
  - Reprogrammable via UPDI via the SAO connector!
  
  
-![Theremini Front](https://github.com/dczia/theremini/blob/master/Images/theremini-front.png?raw=true)
+![Theremini Front](/images/theremini-front.png)
 
-![Theremini back](https://github.com/dczia/theremini/blob/master/Images/theremini-back.png?raw=true)
+![Theremini back](/images/theremini-back.png)
 
 Use avr-gcc to compile the code - just run a 'make'
 
